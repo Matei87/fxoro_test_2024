@@ -303,7 +303,7 @@ footer .container {
   }
 
   footer .container {
-    font-size: 10px;
+    font-size: 13px;
   }
 }
 
@@ -379,7 +379,7 @@ footer .container {
   }
 
   footer .container {
-    font-size: 10px;
+    font-size: 13px;
   }
 }
 
@@ -426,10 +426,6 @@ footer .container {
   .main .fourth_main_container .title,
   .main .fourth_main_container .details {
     font-size: 18px;
-  }
-
-  footer .container {
-    font-size: 13px;
   }
 }
 

@@ -57,6 +57,11 @@ header .left_content h1 {
   color: #273773;
 }
 
+header .left_content img {
+  width: 161px;
+  height: 57px;
+}
+
 header .left_content h1 span {
   color: #1b75ba;
 }
